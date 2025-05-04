@@ -308,7 +308,6 @@ body, html {
   transform: scale(1.1);
 }
 
-/* Адаптация под большие экраны */
 @media (min-width: 600px) {
   .footer .footer-content {
     flex-direction: row;
